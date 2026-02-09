@@ -195,5 +195,4 @@ BigQuery estimates 0 bytes because `COUNT(*)` is a **metadata-only operation**:
 - Data downloaded from NYC TLC website
 - Analyzed using DuckDB with parquet files
 
-**Analysis Script:** See [analyze_homework.py](./analyze_homework.py) for the complete DuckDB analysis code.
 

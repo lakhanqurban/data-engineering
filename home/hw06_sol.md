@@ -1,6 +1,6 @@
 # Homework 06 - Solutions
 
-## Question 1: What's the output of `spark.version`?**
+## Question 1: What's the output of `spark.version`?
 
 ```python
 from pyspark.sql import SparkSession
